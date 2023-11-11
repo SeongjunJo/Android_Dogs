@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Dogs</string>
+    <string name="dog_1_name">Beagle</string>
+    <string name="dog_1_description">Look at those cute puppies! How adorable :D</string>
+    <string name="dog_2_name">Border Collie</string>
+    <string name="dog_2_description">He is the one of the smartest dog species in the world!</string>
+    <string name="dog_3_name">Dachshund</string>
+    <string name="dog_3_description">I wonder how she could get that cuteness…!</string>
+    <string name="dog_4_name">German Shepherd</string>
+    <string name="dog_4_description">In 5 years, he will be a great partner of police.</string>
+    <string name="dog_5_name">Golden Retriever</string>
+    <string name="dog_5_description">Oh my god, I got stuck into their cute face!</string>
+    <string name="dog_6_name">Malamute</string>
+    <string name="dog_6_description">She has a powerful physical health -can run 250km per day!-</string>
+    <string name="dog_7_name">Maltipoo</string>
+    <string name="dog_7_description">Have you ever imagine what will happen if maltese falls in love with poodle..? The heart-attack!!</string>
+    <string name="dog_8_name">Samoyed</string>
+    <string name="dog_8_description">piggy jelly furry cute monster :)</string>
+    <string name="dog_9_name">Shih Tzu</string>
+    <string name="dog_9_description">Oh… Well… Calm down for whatever he make in happen…</string>
+    <string name="dog_10_name">Welsh Corgi</string>
+    <string name="dog_10_description">Long body + Short Leg = LOVE</string>
+</resources>
